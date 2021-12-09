@@ -1,5 +1,6 @@
 local ADMINS = {
-    2651485670, -- Lerkermer
+    2651485670, -- astolfo
+ 
     1342879760, -- w_6u
     200547759, -- Mas2n
     12344533453, -- SusLeveI100
