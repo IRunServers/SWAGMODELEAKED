@@ -11,8 +11,8 @@ public = false
 publicItalics = true
 --customize private logs
 privateProperties = {
-	Color = Color3.fromRGB(0,255,255); 
-	Font = Enum.Font.SourceSansBold;
+	Color = Color3.fromRGB(173, 0, 20); 
+	Font = Enum.Font.AmaticSC;
 	TextSize = 18;
 }
 --////////////////////////////////////////////////////////////////
