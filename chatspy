@@ -4,7 +4,7 @@
 --chat "/spy" to toggle!
 enabled = true
 --if true will check your messages too
-spyOnMyself = true
+spyOnMyself = false
 --if true will chat the logs publicly (fun, risky)
 public = false
 --if true will use /me to stand out
