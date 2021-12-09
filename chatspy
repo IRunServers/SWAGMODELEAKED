@@ -12,7 +12,7 @@ publicItalics = true
 --customize private logs
 privateProperties = {
 	Color = Color3.fromRGB(173, 0, 20); 
-	Font = Enum.Font.AmaticSC;
+	Font = Enum.Font.LuckiestGuy;
 	TextSize = 18;
 }
 --////////////////////////////////////////////////////////////////
