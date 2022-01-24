@@ -1,7 +1,5 @@
 ModIDS = {
-    [2651485670] = true, -- SympingForArii
-
-
+    [2651485670] = true, -- 
 }
 
 return ModIDS
