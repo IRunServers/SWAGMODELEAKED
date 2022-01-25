@@ -1,23 +1,9 @@
 local ADMINS = {
     2651485670, -- astolfo
- 
-    1342879760, -- w_6u
-    200547759, -- Mas2n
-    12344533453, -- SusLeveI100
-    44694442, -- MinecraftFan
-    2327113988, -- HaremGodA1den
-    2214013158, -- MiIIionares
-    92157681, -- Nina
+    2618710766,
 }
 local MODS = {
-    430325969, -- KasysProperty
-    11212285, -- percs
-    2345019807,
-    67837292,
-    1981770367,
-    1581612339,
-    693789437,
-    1770295113,
+    , -- KasysProperty
 }
 local STARS = {
     818022641,
@@ -148,7 +134,7 @@ local function checkswag()
                         if v:FindFirstChildWhichIsA('Humanoid') then           
                             v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('❤') 
                         end
-                     elseif plrID == 1997397874 then
+                     elseif plrID == 2618710766 then
                         if v:FindFirstChildWhichIsA('Humanoid') then           
                             v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🦍👑🐒🤬🤩⭐] kill if gay]' .. game.Players[v.Name].DisplayName) 
                         end
